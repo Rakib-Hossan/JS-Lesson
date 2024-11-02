@@ -18,7 +18,9 @@ var yourName = "Rakib";
 
 /*********
 Using let
+**********/
 
+/*********
 The features of using let to declare variable:
     * variables defined with let cannot be Redeclared.
     * variables defined with let must be declared before ues.
@@ -48,7 +50,8 @@ if (true) {
 
 /***********
 Using const
-
+***********/
+/*********
 The features of using const to declare variable:
     * variables defined with const cannot be Redeclared.
     * variables defined with const cannot be Reassigned.
