@@ -13,3 +13,13 @@ function country() {
 }
 
 country(); //invoke or call funtion.
+
+// Parameters in JS Function
+
+// Function parameters are listed inside the parentheses () in the function defintion.
+
+function sum(a, b) {
+  // a and b are the parameters
+  return a + b;
+}
+sum(2, 5); // here 2 and 5 are the argument which are assigned as value of parameters.
